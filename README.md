@@ -2,8 +2,7 @@
 Welcome to my SQL Bootcamp Project Showcase! This repository contains all exercises I completed during a data analysis boot camp by DigiGirls. The boot camp provided in-depth training on SQL, covering various topics from basic queries to complex database management.
 
 ## Bootcamp Highlights
-- **Duration**: [Insert Duration]
-- **Instructor**: [Insert Instructor's Name]
+- **Duration**: 3 Months
 - **Topics Covered**:
   - Introduction to Databases and SQL
   - Data Retrieval with SELECT statements
