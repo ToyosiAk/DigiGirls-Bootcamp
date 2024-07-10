@@ -29,7 +29,6 @@ Welcome to my SQL Bootcamp Project Showcase! This repository contains all exerci
 ### 4. Aggregation and Grouping
 - **Description**: Using aggregate functions and GROUP BY clause to summarize data.
 - **Skills**: COUNT, SUM, AVG, MAX, MIN, GROUP BY, HAVING
-- **Files**: [Link to the file]
 
 ### 5. Subqueries
 - **Description**: Writing subqueries to retrieve data based on the results of another query.
