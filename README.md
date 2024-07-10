@@ -12,8 +12,6 @@ Welcome to my SQL Bootcamp Project Showcase! This repository contains all exerci
   - Aggregating Data with GROUP BY and HAVING
   - Subqueries and Nested Queries
   - Data Manipulation with INSERT, UPDATE, DELETE
-  - Advanced SQL Functions
-  - Database Design and Normalization
 
 ## Projects and Exercises
 ### 1. Basic Queries
