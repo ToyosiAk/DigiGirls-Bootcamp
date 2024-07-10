@@ -45,8 +45,6 @@ Welcome to my SQL Bootcamp Project Showcase! This repository contains all exerci
 ## How to Use This Repository
 1. **Clone the Repository**:
     ```sh
-    git clone [https://github.com/ToyosiAk/DigiGirls-Bootcamp/blob/7669830ce9efd5e534c9d2248a22718a24fbbe5a/Digigirls_capstone_project.ipynb]
+    git clone [https://github.com/ToyosiAk/DigiGirls-Bootcamp.git]
     ```
-2. **Open the SQL Files**: Use any SQL client to open and run the provided SQL scripts.
-
 
